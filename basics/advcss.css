@@ -1,0 +1,34 @@
+p{
+	font-family: 'Rajdhani', sans-serif;
+}
+
+h1{
+	font-size: 50px;
+	text-align: center;
+	font-weight: normal;
+	font-family: 'Roboto Mono';
+	border: 2px solid black;
+	width: 50%;
+	padding: 20px;
+	/*padding-left: 20px;
+	padding-top: 20px;
+	padding-bottom: 20px;
+	padding-right: 20px;
+	*/
+	margin: 10px auto;
+}
+body{
+	font-size: 2px;
+}
+
+
+p{
+	font-size: 8em;
+	font-weight: 400;
+	text-align: center;
+    text-decoration: underline;
+}
+
+p{
+	line-height: 5;
+}

@@ -1,0 +1,18 @@
+h1{
+	color: rgb(100,0,0);
+/*	border-color: blue;
+	border-width: 5px;
+	border-style: dotted;
+*/
+	border: blue 5px solid;
+}
+
+li{
+	color: rgba(0,0,0,1);
+}
+
+body{
+	background: url(https://cdn.pixabay.com/photo/2015/06/24/03/30/rainbow-819464__340.jpg);
+	background-repeat: no-repeat;
+	background-size: cover;
+}

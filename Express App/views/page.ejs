@@ -1,0 +1,8 @@
+<% include partials/header %>
+<h1>You love <%= name %></h1>
+<% if(name.toLowerCase() === "rusty"){ %>
+	<p>Rusty is best. He is a lovely Dog.</p>
+<% } else { %>
+	<p>Why didn't you choose Rusty </p>
+<% } %>
+<% include partials/footer %>

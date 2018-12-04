@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Bootstrap Basic</title>
+	<link rel="stylesheet" type="text/css" href="bootstrap.css">
+ 
+</head>
+
+<body>
+
+		<div class="container">
+			<div class="jumbotron">
+			<h1>Hey There.</h1>
+			<p>This is a paragraph which i dont want to write but to fill this space, I have written it.</p>
+			<button class="btn btn-info btn-lg">Learn More</button>
+		</div>
+
+		<button class="btn btn-danger btn-sm active">Click me.</button>
+		<button class="btn btn-success" disabled="disabled">Click me.</button>
+		<a href="https://getbootstrap.com" class="btn btn-info btn-lg">Bootstrap Docs</a>
+	    
+
+		<!-- forms -->
+
+		<form>
+			  <div class="form-group">
+			    <label for="exampleInputEmail1">Email address</label>
+			    <input type="email" class="form-control" id="exampleInputEmail1" aria-describedby="emailHelp" placeholder="Enter email">
+			    <small id="emailHelp" class="form-text text-muted">We'll never share your email with anyone else.</small>
+			  </div>
+			  <div class="form-group">
+			    <label for="exampleInputPassword1">Password</label>
+			    <input type="password" class="form-control" id="exampleInputPassword1" placeholder="Password">
+			  </div>
+			  <div class="form-check">
+			    <input type="checkbox" class="form-check-input" id="exampleCheck1">
+			    <label class="form-check-label" for="exampleCheck1">Check me out</label>
+			  </div>
+			  <button type="submit" class="btn btn-primary">Submit</button>
+		</form>
+
+		<!-- inline form -->
+
+		<form class="form-inline">
+		  <div class="form-group mb-2">
+		    <label for="staticEmail2" class="sr-only">Email</label>
+		    <input type="text" class="form-control" id="staticEmail2" placeholder="Email">
+		  </div>
+
+		  <div class="form-group mx-sm-3 mb-2">
+		    <label for="inputPassword2" class="sr-only">Password</label>
+		    <input type="password" class="form-control" id="inputPassword2" placeholder="Password">
+		  </div>
+		  <button type="submit" class="btn btn-primary mb-2">Confirm identity</button>
+		</form>
+
+		</div>
+
+		
+</body>
+</html>
