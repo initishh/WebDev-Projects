@@ -1,0 +1,29 @@
+{
+	"name": "Notes for Programming in C",
+	"materialId": 2,
+	"author": {
+		"name": "GDG Bhubaneswar",
+		"institute": "IIT BBSR"
+	},
+	"pages": [{
+			"page": 1,
+			"url": "https://www.gettyimages.ie/gi-resources/images/Homepage/Hero/UK/CMS_Creative_164657191_Kingfisher.jpg"
+		},
+		{
+			"page": 2,
+			"url": "http://farm4.static.flickr.com/3432/3894133980_7e38f821fa.jpg"
+		},
+		{
+			"page": 3,
+			"url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS1K1hWttHpIgbv49ikeW1zTMdfWETJu6Qi0UIZFxX0wXURrkB1"
+		},
+		{
+			"page": 4,
+			"url": "https://beebom.com/wp-content/uploads/2016/01/Reverse-Image-Search-Engines-Apps-And-Its-Uses-2016.jpg"
+		},
+		{
+			"page": 5,
+			"url": "https://i.imgur.com/FTBSFo7.jpg"
+		}
+	]
+}
